@@ -1,2 +1,2 @@
-Each dataset including the corresponding number of customers, which is composed of the x-axis, y-axis, and late time widnow.(If you have any questions about the use of data, please contact zhangkethu@mail.tsinghua.edu.cn)
+The dataset including the road network of Wangjing District. The Wangjing-loc includes the x-axis, y-axis of these candidate points, where the customer requests are generated from. The Wangjing-dis includes the distance among these the candidate points.(zhangkethu@mail.tsinghua.edu.cn)
 
